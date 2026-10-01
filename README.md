@@ -5,12 +5,18 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lorenzo-sabbatini-7124101b7/">
+  <a href="https://www.linkedin.com/in/IL-TUO-PROFILO/">
     <img src="https://img.shields.io/badge/LinkedIn-Lorenzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   🎓 Master in AI, Big Data & Cloud a EDEM, Valencia<br>
-  🔵⚫ Forza Inter!
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,docker,git" />
+  </a>
 </p>
