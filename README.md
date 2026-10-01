@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/IL-TUO-PROFILO/">
-    <img src="https://www.linkedin.com/in/lorenzo-sabbatini-7124101b7/" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lorenzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
