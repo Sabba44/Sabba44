@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Master+in+AI,+Big+Data+%26+Cloud+a+EDEM,+Valencia" alt="Master in AI, Big Data & Cloud a EDEM, Valencia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Master+in+AI,+Big+Data+%26+Cloud+at+EDEM,+Valencia" alt="Master in AI, Big Data & Cloud a EDEM, Valencia" />
 </p>
 
 <p align="center">
