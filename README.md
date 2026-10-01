@@ -14,4 +14,5 @@
 
 <p align="center">
   🎓 Master in AI, Big Data & Cloud a EDEM, Valencia<br>
+  🔵⚫ Forza Inter!
 </p>
