@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ee-1f1f9.png" height="36" align="middle" alt="Italia" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1500&color=1E6FFF&center=true&vCenter=true&width=330&height=60&lines=Ciao,+qui+Lorenzo" align="middle" alt="Ciao, qui Lorenzo" />
