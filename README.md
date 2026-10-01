@@ -13,3 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Lorenzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<p align="center">
+  🎓 Master in AI, Big Data & Cloud a EDEM, Valencia<br>
+</p>
