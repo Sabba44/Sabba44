@@ -5,13 +5,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Master+in+AI,+Big+Data+%26+Cloud+at+EDEM,+Valencia" alt="Master in AI, Big Data & Cloud a EDEM, Valencia" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/IL-TUO-PROFILO/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Master+in+AI,+Big+Data+%26+Cloud+at+EDEM,+Valencia" alt="Master in AI, Big Data & Cloud a EDEM, Valencia" />
 </p>
 
 <p align="center">
