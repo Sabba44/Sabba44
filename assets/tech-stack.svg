@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="36" viewBox="0 0 240 36" role="img" aria-label="Tech stack">
+  <style>
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Courier New", monospace; font-weight: 700; font-size: 22px; fill: #24292F; }
+    @media (prefers-color-scheme: dark) { text { fill: #E6EDF3; } }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">Tech stack</text>
+</svg>

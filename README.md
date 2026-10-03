@@ -11,3 +11,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<h3 align="center">
+  <img src="assets/tech-stack.svg" alt="Tech stack" />
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,docker,git" alt="Ubuntu, Docker, Git" />
+</p>
