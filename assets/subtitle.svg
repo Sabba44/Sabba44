@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="32" viewBox="0 0 640 32" role="img" aria-label="Master in AI, Big Data &amp; Cloud at EDEM (Valencia)">
+  <style>
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Courier New", monospace; font-size: 18px; fill: #57606A; }
+    @media (prefers-color-scheme: dark) { text { fill: #8B949E; } }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">Master in AI, Big Data &amp; Cloud at EDEM (Valencia)</text>
+</svg>
