@@ -17,5 +17,5 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,docker,git,python,sql" alt="Ubuntu, Docker, Git, Python, Sql" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,docker,git,python" alt="Ubuntu, Docker, Git, Python" />
 </p>
